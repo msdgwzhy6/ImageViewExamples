@@ -1,1 +1,1 @@
-include ':app', ':shadowimageview'
+include ':app', ':shadowimageview', ':paletteimageview'

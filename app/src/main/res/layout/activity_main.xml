@@ -9,6 +9,12 @@
         android:id="@+id/btn_shadow"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="ShadowImageView"/>
+        android:text="Shadow_ImageView" />
+
+    <Button
+        android:id="@+id/btn_palette"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Palette_ImageView" />
 
 </LinearLayout>
